@@ -7,7 +7,7 @@
     },
     "license": "MIT",
     "scripts": {
-        "build": "npm build sitioDeploy"
+        "build": "npm build clima-app"
     },
     "dependencies": {
         "axios": "^0.19.2",
