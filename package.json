@@ -6,9 +6,6 @@
         "url": "https://github.com/Brams-chi/clima-app"
     },
     "license": "MIT",
-    "scripts": {
-        "build": "npm build clima-app"
-    },
     "dependencies": {
         "axios": "^0.19.2",
         "bootstrap": "^4.5.0",
