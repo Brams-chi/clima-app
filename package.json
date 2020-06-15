@@ -6,8 +6,7 @@
         "url": "https://github.com/Brams-chi/clima-app"
     },
     "scripts": {
-        "build": "webpack --mode production",
-        "start": "webpack-dev-server --open"
+        "build": "react build --output build"
     },
     "license": "MIT",
     "dependencies": {
